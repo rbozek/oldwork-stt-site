@@ -1,4 +1,4 @@
-/* below is CSS reset - "zeroes out" all values to make consistent across all browsers */
+/* CSS reset - "zeroes out" all values to make consistent across all browsers */
 html, body, h1, h2, h3, h4, h5, h6, p, ol, ul, li, pre, code, address, variable, form, fieldset, blockquote {
  padding: 0;
  margin: 0;
@@ -262,7 +262,6 @@ img.digital_music_links:active {
 
 
 /*  PRIVATE PARTY SECTION  */
-
 body.rltrio {
 	font-family: Tahoma, Geneva, sans-serif;
 	background: #FFF url(images/rltriopage/gray_background.jpg) scroll repeat center top; 
