@@ -1,9 +1,9 @@
 /* CSS reset - "zeroes out" all values to make consistent across all browsers */
 html, body, h1, h2, h3, h4, h5, h6, p, ol, ul, li, pre, code, address, variable, form, fieldset, blockquote {
- padding: 0;
- margin: 0;
- font-size: 100%;
- font-weight: normal;
+	padding: 0;
+	margin: 0;
+	font-size: 100%;
+	font-weight: normal;
 }
 table { border-collapse: collapse; border-spacing: 0; }
 td, th, caption { font-weight: normal; text-align: left; }
